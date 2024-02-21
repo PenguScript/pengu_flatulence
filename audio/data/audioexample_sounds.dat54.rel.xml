@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<Dat54>
+  <Version value="7314721"/>
+  <ContainerPaths>
+    <Item>audiodirectory\pengu_farts</Item>
+  </ContainerPaths>
+  <Items>
+    <Item type="SimpleSound">
+      <Name>1_sp</Name>
+      <Header>
+        <Flags value="0x00008004"/>
+        <Volume value="200"/>
+        <Category>scripted</Category>
+      </Header>
+      <ContainerName>audiodirectory/pengu_farts</ContainerName>
+      <FileName>1</FileName>
+      <WaveSlotNum value="0"/>
+    </Item>
+    <Item type="SimpleSound">
+      <Name>2_sp</Name>
+      <Header>
+        <Flags value="0x00008004"/>
+        <Volume value="200"/>
+        <Category>scripted</Category>
+      </Header>
+      <ContainerName>audiodirectory/pengu_farts</ContainerName>
+      <FileName>2</FileName>
+      <WaveSlotNum value="0"/>
+    </Item>
+    <Item type="SimpleSound">
+      <Name>3_sp</Name>
+      <Header>
+        <Flags value="0x00008004"/>
+        <Volume value="200"/>
+        <Category>scripted</Category>
+      </Header>
+      <ContainerName>audiodirectory/pengu_farts</ContainerName>
+      <FileName>3</FileName>
+      <WaveSlotNum value="0"/>
+    </Item>
+    <Item type="SimpleSound">
+      <Name>4_sp</Name>
+      <Header>
+        <Flags value="0x00008004"/>
+        <Volume value="200"/>
+        <Category>scripted</Category>
+      </Header>
+      <ContainerName>audiodirectory/pengu_farts</ContainerName>
+      <FileName>4</FileName>
+      <WaveSlotNum value="0"/>
+    </Item>
+    <Item type="SimpleSound">
+      <Name>5_sp</Name>
+      <Header>
+        <Flags value="0x00008004"/>
+        <Volume value="200"/>
+        <Category>scripted</Category>
+      </Header>
+      <ContainerName>audiodirectory/pengu_farts</ContainerName>
+      <FileName>5</FileName>
+      <WaveSlotNum value="0"/>
+    </Item>
+    <Item type="SimpleSound">
+      <Name>6_sp</Name>
+      <Header>
+        <Flags value="0x00008004"/>
+        <Volume value="200"/>
+        <Category>scripted</Category>
+      </Header>
+      <ContainerName>audiodirectory/pengu_farts</ContainerName>
+      <FileName>6</FileName>
+      <WaveSlotNum value="0"/>
+    </Item>
+    <Item type="SimpleSound">
+      <Name>7_sp</Name>
+      <Header>
+        <Flags value="0x00008004"/>
+        <Volume value="200"/>
+        <Category>scripted</Category>
+      </Header>
+      <ContainerName>audiodirectory/pengu_farts</ContainerName>
+      <FileName>7</FileName>
+      <WaveSlotNum value="0"/>
+    </Item>
+    <Item type="SimpleSound">
+      <Name>8_sp</Name>
+      <Header>
+        <Flags value="0x00008004"/>
+        <Volume value="200"/>
+        <Category>scripted</Category>
+      </Header>
+      <ContainerName>audiodirectory/pengu_farts</ContainerName>
+      <FileName>8</FileName>
+      <WaveSlotNum value="0"/>
+    </Item>
+    <Item type="SimpleSound">
+      <Name>9_sp</Name>
+      <Header>
+        <Flags value="0x00008004"/>
+        <Volume value="200"/>
+        <Category>scripted</Category>
+      </Header>
+      <ContainerName>audiodirectory/pengu_farts</ContainerName>
+      <FileName>9</FileName>
+      <WaveSlotNum value="0"/>
+    </Item>
+    <Item type="SoundSet">
+      <Name>special_soundset</Name>
+      <Header>
+        <Flags value="0xAAAAAAAA"/>
+      </Header>
+      <SoundSets>
+        <Item>
+          <ScriptName>1</ScriptName>
+          <ChildSound>1_sp</ChildSound>
+        </Item>
+        <Item>
+          <ScriptName>2</ScriptName>
+          <ChildSound>2_sp</ChildSound>
+        </Item>
+        <Item>
+          <ScriptName>3</ScriptName>
+          <ChildSound>3_sp</ChildSound>
+        </Item>
+        <Item>
+          <ScriptName>4</ScriptName>
+          <ChildSound>4_sp</ChildSound>
+        </Item>
+        <Item>
+          <ScriptName>5</ScriptName>
+          <ChildSound>5_sp</ChildSound>
+        </Item>
+        <Item>
+          <ScriptName>6</ScriptName>
+          <ChildSound>6_sp</ChildSound>
+        </Item>
+        <Item>
+          <ScriptName>7</ScriptName>
+          <ChildSound>7_sp</ChildSound>
+        </Item>
+        <Item>
+          <ScriptName>8</ScriptName>
+          <ChildSound>8_sp</ChildSound>
+        </Item>
+        <Item>
+          <ScriptName>9</ScriptName>
+          <ChildSound>9_sp</ChildSound>
+        </Item>
+      </SoundSets>
+    </Item>
+  </Items>
+</Dat54>

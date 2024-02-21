@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+<AudioWaveContainer>
+  <Version value="1"/>
+  <ChunkIndices value="True"/>
+  <Streams>
+    <Item>
+      <Name>1</Name>
+      <FileName>1_left.wav</FileName>
+      <Chunks>
+        <Item>
+          <Type>peak</Type>
+        </Item>
+        <Item>
+          <Type>data</Type>
+        </Item>
+        <Item>
+          <Type>format</Type>
+          <Codec>ADPCM</Codec>
+          <Samples value="49320"/>
+          <SampleRate value="32000"/>
+          <Headroom value="-100"/>
+          <PlayBegin value="0"/>
+          <PlayEnd value="0"/>
+          <LoopBegin value="0"/>
+          <LoopEnd value="0"/>
+          <LoopPoint value="-1"/>
+          <Peak unk="0"/>
+        </Item>
+      </Chunks>
+    </Item>
+    <Item>
+      <Name>2</Name>
+      <FileName>2_left.wav</FileName>
+      <Chunks>
+        <Item>
+          <Type>peak</Type>
+        </Item>
+        <Item>
+          <Type>data</Type>
+        </Item>
+        <Item>
+          <Type>format</Type>
+          <Codec>ADPCM</Codec>
+          <Samples value="43468"/>
+          <SampleRate value="32000"/>
+          <Headroom value="-100"/>
+          <PlayBegin value="0"/>
+          <PlayEnd value="0"/>
+          <LoopBegin value="0"/>
+          <LoopEnd value="0"/>
+          <LoopPoint value="-1"/>
+          <Peak unk="0"/>
+        </Item>
+      </Chunks>
+    </Item>
+    <Item>
+      <Name>3</Name>
+      <FileName>3_left.wav</FileName>
+      <Chunks>
+        <Item>
+          <Type>peak</Type>
+        </Item>
+        <Item>
+          <Type>data</Type>
+        </Item>
+        <Item>
+          <Type>format</Type>
+          <Codec>ADPCM</Codec>
+          <Samples value="25914"/>
+          <SampleRate value="32000"/>
+          <Headroom value="-100"/>
+          <PlayBegin value="0"/>
+          <PlayEnd value="0"/>
+          <LoopBegin value="0"/>
+          <LoopEnd value="0"/>
+          <LoopPoint value="-1"/>
+          <Peak unk="0"/>
+        </Item>
+      </Chunks>
+    </Item>
+    <Item>
+      <Name>4</Name>
+      <FileName>4_left.wav</FileName>
+      <Chunks>
+        <Item>
+          <Type>peak</Type>
+        </Item>
+        <Item>
+          <Type>data</Type>
+        </Item>
+        <Item>
+          <Type>format</Type>
+          <Codec>ADPCM</Codec>
+          <Samples value="10031"/>
+          <SampleRate value="32000"/>
+          <Headroom value="-100"/>
+          <PlayBegin value="0"/>
+          <PlayEnd value="0"/>
+          <LoopBegin value="0"/>
+          <LoopEnd value="0"/>
+          <LoopPoint value="-1"/>
+          <Peak unk="0"/>
+        </Item>
+      </Chunks>
+    </Item>
+    <Item>
+      <Name>5</Name>
+      <FileName>5_left.wav</FileName>
+      <Chunks>
+        <Item>
+          <Type>peak</Type>
+        </Item>
+        <Item>
+          <Type>data</Type>
+        </Item>
+        <Item>
+          <Type>format</Type>
+          <Codec>ADPCM</Codec>
+          <Samples value="64000"/>
+          <SampleRate value="32000"/>
+          <Headroom value="-100"/>
+          <PlayBegin value="0"/>
+          <PlayEnd value="0"/>
+          <LoopBegin value="0"/>
+          <LoopEnd value="0"/>
+          <LoopPoint value="-1"/>
+          <Peak unk="0"/>
+        </Item>
+      </Chunks>
+    </Item>
+    <Item>
+      <Name>6</Name>
+      <FileName>6_left.wav</FileName>
+      <Chunks>
+        <Item>
+          <Type>peak</Type>
+        </Item>
+        <Item>
+          <Type>data</Type>
+        </Item>
+        <Item>
+          <Type>format</Type>
+          <Codec>ADPCM</Codec>
+          <Samples value="5050"/>
+          <SampleRate value="32000"/>
+          <Headroom value="-100"/>
+          <PlayBegin value="0"/>
+          <PlayEnd value="0"/>
+          <LoopBegin value="0"/>
+          <LoopEnd value="0"/>
+          <LoopPoint value="-1"/>
+          <Peak unk="0"/>
+        </Item>
+      </Chunks>
+    </Item>
+    <Item>
+      <Name>7</Name>
+      <FileName>7_left.wav</FileName>
+      <Chunks>
+        <Item>
+          <Type>peak</Type>
+        </Item>
+        <Item>
+          <Type>data</Type>
+        </Item>
+        <Item>
+          <Type>format</Type>
+          <Codec>ADPCM</Codec>
+          <Samples value="33437"/>
+          <SampleRate value="32000"/>
+          <Headroom value="-100"/>
+          <PlayBegin value="0"/>
+          <PlayEnd value="0"/>
+          <LoopBegin value="0"/>
+          <LoopEnd value="0"/>
+          <LoopPoint value="-1"/>
+          <Peak unk="0"/>
+        </Item>
+      </Chunks>
+    </Item>
+    <Item>
+      <Name>8</Name>
+      <FileName>8_left.wav</FileName>
+      <Chunks>
+        <Item>
+          <Type>peak</Type>
+        </Item>
+        <Item>
+          <Type>data</Type>
+        </Item>
+        <Item>
+          <Type>format</Type>
+          <Codec>ADPCM</Codec>
+          <Samples value="76905"/>
+          <SampleRate value="32000"/>
+          <Headroom value="-100"/>
+          <PlayBegin value="0"/>
+          <PlayEnd value="0"/>
+          <LoopBegin value="0"/>
+          <LoopEnd value="0"/>
+          <LoopPoint value="-1"/>
+          <Peak unk="0"/>
+        </Item>
+      </Chunks>
+    </Item>
+    <Item>
+      <Name>9</Name>
+      <FileName>9_left.wav</FileName>
+      <Chunks>
+        <Item>
+          <Type>peak</Type>
+        </Item>
+        <Item>
+          <Type>data</Type>
+        </Item>
+        <Item>
+          <Type>format</Type>
+          <Codec>ADPCM</Codec>
+          <Samples value="10752"/>
+          <SampleRate value="32000"/>
+          <Headroom value="-100"/>
+          <PlayBegin value="0"/>
+          <PlayEnd value="0"/>
+          <LoopBegin value="0"/>
+          <LoopEnd value="0"/>
+          <LoopPoint value="-1"/>
+          <Peak unk="0"/>
+        </Item>
+      </Chunks>
+    </Item>
+  </Streams>
+</AudioWaveContainer>
