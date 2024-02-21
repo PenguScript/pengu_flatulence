@@ -1,5 +1,5 @@
-Should be drag and drop, add a few more locations and have fun!
+All config options are located in the client.lua
 
 Discord for Support: https://discord.gg/AS7U5GK4TE
 
-Preview: https://youtu.be/ZaJHcvP2kDE 
+Preview: https://youtu.be/7_wDj9niMhs
