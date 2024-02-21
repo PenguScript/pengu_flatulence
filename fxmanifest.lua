@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-description 'pengu_shart'
+description 'pengu_flatulence'
 version '1.0.0'
 
 client_script {
