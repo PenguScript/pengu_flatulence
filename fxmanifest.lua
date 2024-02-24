@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 description 'pengu_flatulence'
-version '1.0.0'
+version '1.0.1'
 
 client_script {
 	'client/main.lua',
